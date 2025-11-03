@@ -8,7 +8,7 @@ This project was created purely for learning and practice, aiming to replicate t
 
 You can view the live deployed version of this project here:
 
-**[https://chorcha-clone-demo.onrender.com](https://chorcha-clone-demo.onrender.com)**
+**[https://chorcha-remake.onrender.com/](https://chorcha-remake.onrender.com/)**
 
 ## 📸 Project Screenshot
 
@@ -41,8 +41,8 @@ Since this is a static website, no complex installation is required.
     ```bash
     cd chorcha-remake
     ```
-3.  **Open the `dashboard.html` file:**
-    Simply open the `dashboard.html` file in your favorite web browser (like Chrome, Firefox, or Edge) to view the project.
+3.  **Open the `index.html` file:**
+    Simply open the `index.html` file in your favorite web browser (like Chrome, Firefox, or Edge) to view the project.
 
 ## 🎯 Purpose & Disclaimer
 
