@@ -1,0 +1,15 @@
+# Exclude virtual environment
+myenv/
+
+# Exclude compiled Python files
+__pycache__/
+*.pyc
+
+# Exclude specific Python files
+html_formatter_bot.py
+div_remover_bot.py
+test_*.py
+
+# Optional: ignore IDE/editor files
+.vscode/
+.idea/
