@@ -51,7 +51,7 @@ This project is a **clone** created for **educational purposes only**. It is a p
 ## 👤 Developed By
 
 * **Name:** Miraz Rafi
-* **GitHub:** [@YourGitHubUsername](https://github.com/Mirazraf)
+* **GitHub:** [@immirazrafi](https://github.com/Mirazraf)
 
 ## ⚖️ License
 
